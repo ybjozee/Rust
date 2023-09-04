@@ -4,12 +4,12 @@ I learnt Rust purely out of [curiosity](https://www.linkedin.com/posts/joseph-ud
 
 Here's a list of some Rust projects I worked on. 
 
-## CLI
+## [Encryption and decryption CLI](https://www.twilio.com/blog/build-rust-cli-using-seahorse)
 For this project, I used [Seahorse](https://github.com/ksk001100/seahorse) to build a CLI for simple encryption/decryption. Cobra was useful for arranging the commands, and flag/argument parsing. 
 
 In addition to encryption and decryption, I added a flag which takes a phone number. Where provided, the CLI sends a WhatsApp message with the encrypted content to the provided phone number. 
 
-You can view the project repository [here](https://github.com/ybjozee/Seahorse_CLI). You can also read the accompanying tutorial [soon](#)
+You can view the project repository [here](https://github.com/ybjozee/Seahorse_CLI). You can also read the accompanying tutorial [soon](https://www.twilio.com/blog/build-rust-cli-using-seahorse)
 
 ## [Cross platform desktop application](https://www.twilio.com/blog/build-a-cross-platform-desktop-application-with-rust-using-tauri)
 
